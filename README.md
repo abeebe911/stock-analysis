@@ -5,8 +5,7 @@ In this project, we learned how to use VBA in Excel to run a more thorough analy
 
 ## Results:
 When we refactored the code, which is to say we made it more flexible and applicable, we cleaned it up, made it simpler, and cut the processing time immensely. With our original code, the analysis of the year 2017 ran in 0.55 seconds while the year 2018 ran in 0.53 seconds. When we refactored the macro, the cut the times down to 0.12 seconds for 2017 and 0.13 seconds for 2018. This may seem like a small difference but this was a relatively small worksheet. If we were running analysis on the entire stock market, this would cut down on processing time immensely.
-
-
+![resources/VBA_Challenge_2017.png](VBA_Challenge_2017.png)
 
 ## Summary: In a summary statement, address the following questions. What are the advantages or disadvantages of refactoring code? How do these pros and cons apply to refactoring the original VBA script?
 
